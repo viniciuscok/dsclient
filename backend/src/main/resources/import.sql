@@ -1,0 +1,15 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Vinicius Carmo', '111.222.333-90', 10.0, NOW(), 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Silva', '111.222.333-91', 100.0, NOW(), 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcelo Jesus', '111.222.333-92', 90.0, NOW(), 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Carmo', '111.222.333-93', 15.0, NOW(), 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luana Rodrigues', '111.222.333-94', 180.0, NOW(), 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Antonio Portela', '111.222.333-55', 160.0, NOW(), 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Carlos Jesus', '111.222.333-65', 1690.0, NOW(), 7);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joana Nogueira', '111.222.333-75', 16900.0, NOW(), 6);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joane Portela', '111.222.333-25', 1644.0, NOW(), 7);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Juciene Santana', '111.222.333-23', 1655.0, NOW(), 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Juliana Queiros', '111.222.333-12', 769.0, NOW(), 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Nayara Jesus', '111.222.333-34', 800.0, NOW(), 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcio Carmo', '111.222.333-67', 900.0, NOW(), 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rodrigo Portugal', '111.222.333-87', 500.0, NOW(), 8);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Natanael Porto', '111.222.333-98', 9456.0, NOW(), 4);
